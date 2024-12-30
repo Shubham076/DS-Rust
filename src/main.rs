@@ -1,7 +1,7 @@
-mod collections;
-use collections::run;
+mod datastructures;
+use datastructures::binary_tree;
 
 
 fn main() {
-    run();
+    binary_tree::run();
 }

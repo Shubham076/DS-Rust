@@ -1,2 +1,2 @@
-mod linked_list;
-pub use linked_list::run;
+pub mod linked_list;
+pub mod binary_tree;
